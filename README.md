@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Arosha!<br>💻 I'm passionate about software development, particularly in Python, and web development.<br>🌐 I enjoy creating web applications, optimizing performance, and exploring new technologies.<br>🔧 Currently, I'm working on an Event Management System in C# and a personal assistant program named JARVIS an AI. <br>🎓 Always eager to learn and contribute to open-source projects.<br>📫 Let's connect and collaborate on GitHub!
+👋 Hi, I'm Arosha!<br>💻 I'm passionate about ethical hacking, software development, particularly in Python, and web development.<br>🌐 I enjoy creating web applications, optimizing performance, and exploring new technologies.<br>🔧 Currently, I'm working on an Event Management System in C# and a personal assistant program named JARVIS(BULLET 1.0) an AI. <br>🎓 Always eager to learn and contribute to open-source projects.<br>📫 Let's connect and collaborate on GitHub!
 
 
 ## 🌐 Socials:
